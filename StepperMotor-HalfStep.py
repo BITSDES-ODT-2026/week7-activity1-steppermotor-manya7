@@ -1,4 +1,4 @@
-from machine import Pin,
+from machine import Pin
 import time
 
 step1 = Pin(18,Pin.OUT)
