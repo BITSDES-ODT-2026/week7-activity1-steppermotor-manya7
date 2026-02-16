@@ -15,7 +15,7 @@ while True:
         step3.value(i[2])
         step4.value(i[3])
         time.sleep_ms(5)
-       for i in list2:
+    for i in list2:
         step1.value(i[0])
         step2.value(i[1])
         step3.value(i[2])
